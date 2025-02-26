@@ -22,5 +22,6 @@ This repository serves as a template for organizing future projects.
         ├── LICENSE
         └── README.md
 
+
 ## Contact
 [Jin Kweon](mailto:jin.kweon@mail.mcgill.ca), [Trafford Crump](mailto:trafford.crump@mcgill.ca)
